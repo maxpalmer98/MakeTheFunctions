@@ -51,6 +51,10 @@ bool isPositive(int &numC)
   {
     bool isPositive = true;
   }
+  else
+  {
+    bool isPositive = false;
+  }
 }
 
 void fillWith(vector<int> &vecName, int numV)

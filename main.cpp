@@ -47,7 +47,7 @@ int main()
 //function definitions
 bool isPositive(int &numC)
 {
-  if (numC > 0)
+  if (numC >= 0)
   {
     bool isPositive = true;
   }
